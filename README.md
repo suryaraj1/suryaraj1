@@ -1,6 +1,15 @@
 ### Hi there, I'm Suryaraj <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suryaraj-bhaduri-a6706b162/)
+<a href="https://www.linkedin.com/in/suryaraj-bhaduri-a6706b162/" target="__blank">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" align="center" width="50px" alt="linkedin"/>
+</a>
+<a href="https://www.codechef.com/users/maxboom321" target="__blank">
+   <img src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/codechef.png" align="center" width="50px" alt="codechef"/>
+</a>
+<a href="https://www.spoj.com/users/maxboom321/" target="__blank">
+  <img src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/spoj.png" align="center" width="50px" alt="SPOJ"/>
+</a>
+<br />
 
 ### Glad to see you here ✨ <!-- visitor count  ![](https://visitor-badge.glitch.me/badge?page_id=suryaraj1.suryaraj1) -->
 I am a student, developer and a programming contest enthusiast. I strive to bring energy, technical knowledge, problem solving skills and a strong desire to learn with me. 🚀
