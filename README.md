@@ -6,7 +6,7 @@
 I am a student, developer and a programming contest enthusiast. I strive to bring energy, technical knowledge, problem solving skills and a strong desire to learn with me. 🚀
 
 ### About me
-- 🛠️ Currently working on React, Javascript, Node Js and Express
+- 🛠️ Currently working on <strong>React</strong>, <strong>Javascript</strong>, <strong>Node Js</strong> and <strong>Express</strong>
 - 📫 Reach to me at: suryarajbhaduri1216@gmail.com
 <!-- visitor count -->
 ### ![](https://visitor-badge.glitch.me/badge?page_id=suryaraj1.suryaraj1)
