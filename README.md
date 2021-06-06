@@ -1,13 +1,13 @@
 ### Hi there, I'm Suryaraj <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/suryaraj-bhaduri-a6706b162/" target="__blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" align="center" width="50px" alt="linkedin"/>
+<a href="https://www.linkedin.com/in/suryaraj-bhaduri-a6706b162/">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" align="center" width="40px" alt="linkedin"/>
 </a>
-<a href="https://www.codechef.com/users/maxboom321" target="__blank">
-   <img src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/codechef.png" align="center" width="50px" alt="codechef"/>
+<a href="https://www.codechef.com/users/maxboom321">
+   <img src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/codechef.png" align="center" width="40px" alt="codechef"/>
 </a>
-<a href="https://www.spoj.com/users/maxboom321/" target="__blank">
-  <img src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/spoj.png" align="center" width="50px" alt="SPOJ"/>
+<a href="https://www.spoj.com/users/maxboom321/">
+  <img src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/spoj.png" align="center" width="40px" alt="SPOJ"/>
 </a>
 <br />
 
