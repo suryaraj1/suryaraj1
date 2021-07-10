@@ -20,7 +20,9 @@ I am a student, developer and a programming contest enthusiast. I strive to brin
 <!-- - below its very messy will fix it -->
 ### About me
 - 💗 Passionate about <strong>User Interfaces</strong>
+
 - 🛠️ Currently working on <strong>React</strong>, <strong>Javascript</strong>, <strong>Node Js</strong> and <strong>Express</strong>
+
 - 📫 Reach out to me at: suryaraj_bhaduri@yahoo.com
 
 ---
