@@ -32,11 +32,10 @@ Apart from web, I was a **programming contest enthusiast** in my college days. H
 
 <!-- - below its very messy will fix it -->
 ### A bit more about me
-- 🖥️ Before joining Hyland, I was a software engineer at [workat.tech](https://workat.tech)
-- 📘 Reading **Almanack of Naval Ravikant** atm
-- 📰 I prefer writing blogs whenever I come across something new in tech.
-- 🎵 Love to listen to music
-- 🔧 Planning to start contributing to OSS
-
+- 🖥️ &nbsp; Before joining Hyland, I was a software engineer at [workat.tech](https://workat.tech).
+- 📘 &nbsp; Reading **Almanack of Naval Ravikant** atm.
+- 📰 &nbsp; I prefer writing blogs whenever I come across something new in tech.
+- 🍕 &nbsp; Music, cooking & startups.
+- 🔧 &nbsp; Planning to start contributing to OSS.
 
 ---
