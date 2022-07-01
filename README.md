@@ -12,12 +12,10 @@ Currently working as a software developer at [Hyland](https://www.hyland.com/en)
 
 Apart from web, I was a **programming contest enthusiast** in my college days. Have also been to **ACM-ICPC Kolkata-Kanpur Regionals** in 2018.
 
-<img align="right" width="375" alt="" src="https://media3.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e474js9k7lfnqsurj7m5xy0bsb0ewwsbgv9j52hfckt&rid=giphy.gif&ct=g" />
-
 ### About me
-- 🛠️ I am working with React, JavaScript, C#, .NET.
+- 🛠️ I am working with Typescript, C#, .NET.
 - 👀 Want to learn - TypeScript, Webpack, Angular, Next, GraphQL.
-- 🧠 Learning about state machines, behaviour trees.
+- 🧠 Learning about design patterns, state machines & behaviour trees.
 - 📫 Reach out to me at: suryarajbhaduri1216@gmail.com
 
 ### Languages and Tools:
